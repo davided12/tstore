@@ -55,7 +55,7 @@
         <!-- Link to Login Screen -->
  
         <Button
-            android:id="@+id/btnLinkToRegisterScreen"
+            android:id="@+id/btnLinkToMap"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="40dip"
@@ -63,7 +63,7 @@
             android:text="@string/btn_link_to_register"
             android:textAllCaps="false"
             android:textColor="@color/white"
-            android:textSize="15dp" />
+            android:textSize="20dp" />
     </LinearLayout>
  
 </LinearLayout>
